@@ -1,0 +1,15 @@
+C:\Games\dz3\seminars\seminar001\bin\Debug\net6.0\seminar001.exe
+C:\Games\dz3\seminars\seminar001\bin\Debug\net6.0\seminar001.deps.json
+C:\Games\dz3\seminars\seminar001\bin\Debug\net6.0\seminar001.runtimeconfig.json
+C:\Games\dz3\seminars\seminar001\bin\Debug\net6.0\seminar001.dll
+C:\Games\dz3\seminars\seminar001\bin\Debug\net6.0\seminar001.pdb
+C:\Games\dz3\seminars\seminar001\obj\Debug\net6.0\seminar001.csproj.AssemblyReference.cache
+C:\Games\dz3\seminars\seminar001\obj\Debug\net6.0\seminar001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\dz3\seminars\seminar001\obj\Debug\net6.0\seminar001.AssemblyInfoInputs.cache
+C:\Games\dz3\seminars\seminar001\obj\Debug\net6.0\seminar001.AssemblyInfo.cs
+C:\Games\dz3\seminars\seminar001\obj\Debug\net6.0\seminar001.csproj.CoreCompileInputs.cache
+C:\Games\dz3\seminars\seminar001\obj\Debug\net6.0\seminar001.dll
+C:\Games\dz3\seminars\seminar001\obj\Debug\net6.0\refint\seminar001.dll
+C:\Games\dz3\seminars\seminar001\obj\Debug\net6.0\seminar001.pdb
+C:\Games\dz3\seminars\seminar001\obj\Debug\net6.0\seminar001.genruntimeconfig.cache
+C:\Games\dz3\seminars\seminar001\obj\Debug\net6.0\ref\seminar001.dll
